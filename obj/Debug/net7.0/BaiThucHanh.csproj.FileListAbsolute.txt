@@ -1,0 +1,15 @@
+D:\PTPMMM\LVTBaiThucHanh736\bin\Debug\net7.0\BaiThucHanh.exe
+D:\PTPMMM\LVTBaiThucHanh736\bin\Debug\net7.0\BaiThucHanh.deps.json
+D:\PTPMMM\LVTBaiThucHanh736\bin\Debug\net7.0\BaiThucHanh.runtimeconfig.json
+D:\PTPMMM\LVTBaiThucHanh736\bin\Debug\net7.0\BaiThucHanh.dll
+D:\PTPMMM\LVTBaiThucHanh736\bin\Debug\net7.0\BaiThucHanh.pdb
+D:\PTPMMM\LVTBaiThucHanh736\obj\Debug\net7.0\BaiThucHanh.csproj.AssemblyReference.cache
+D:\PTPMMM\LVTBaiThucHanh736\obj\Debug\net7.0\BaiThucHanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTPMMM\LVTBaiThucHanh736\obj\Debug\net7.0\BaiThucHanh.AssemblyInfoInputs.cache
+D:\PTPMMM\LVTBaiThucHanh736\obj\Debug\net7.0\BaiThucHanh.AssemblyInfo.cs
+D:\PTPMMM\LVTBaiThucHanh736\obj\Debug\net7.0\BaiThucHanh.csproj.CoreCompileInputs.cache
+D:\PTPMMM\LVTBaiThucHanh736\obj\Debug\net7.0\BaiThucHanh.dll
+D:\PTPMMM\LVTBaiThucHanh736\obj\Debug\net7.0\refint\BaiThucHanh.dll
+D:\PTPMMM\LVTBaiThucHanh736\obj\Debug\net7.0\BaiThucHanh.pdb
+D:\PTPMMM\LVTBaiThucHanh736\obj\Debug\net7.0\BaiThucHanh.genruntimeconfig.cache
+D:\PTPMMM\LVTBaiThucHanh736\obj\Debug\net7.0\ref\BaiThucHanh.dll
