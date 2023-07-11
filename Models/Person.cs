@@ -12,7 +12,18 @@ namespace LVTbaiThucHanh.Models
             System.Console.Write("Ho Ten Sinh Vien: ");
             FullName = Console.ReadLine();
             System.Console.Write("Age: ");
-            Age = Convert.ToInt16(Console.ReadLine());
+           do
+           {
+            try
+           {
+             Age = Convert.ToInt16(Console.ReadLine());
+           }
+           catch (Exception ex)
+           {
+            Age = 0;
+           }
+           } while (Age == 0);
+
         }
         public void Output()
         {
